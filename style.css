@@ -12,6 +12,21 @@ body {
   /* background-image: rgba (0, 0, 0, 0.7); */
   /* opacity: 0.8; */
 }
+.col {
+  padding-bottom: 60px;
+}
+.h10 {
+  font-family: "Dela Gothic One", cursive;
+  font-size: 55px;
+}
+.h11 {
+  font-family: "Big Shoulders Stencil Display", cursive;
+  font-size: 50px;
+}
+.h2 {
+  font-family: "Dela Gothic One", cursive;
+  font-size: 55px;
+}
 
 #Projects {
   background-color: #80c3d9;
@@ -38,4 +53,15 @@ body {
   display: flex;
   justify-content: center;
   background: #80c3d9;
+}
+
+#Portofolio1 .container .row .col-md-4 {
+  background-color: #80c3d9;
+  border-radius: 25px;
+  width: 520px;
+  height: 800px;
+}
+
+div.p {
+  text-align: right;
 }
